@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a9a13c66-920a-411b-a8d7-c561a8810557" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2dH02YUMauAJpd1ktC2pzDB9TnF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Operations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Polynomial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PolynomialModel.executor&quot;: &quot;Run&quot;,
+    &quot;Application.View.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.ProiectPolinoame [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.ProiectPolinoame [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.ProiectPolinoame [org.apache.maven.plugins:maven-surefire-plugin:3.0.0-M7:test].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.ProiectPolinoame [site].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.ProiectPolinoame [test].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/UTCN/TP/PT2024_30222_Ivan_Alexandru_1/ProiectPolinoame&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/UTCN/TP/ProiectPolinoame/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Model" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/openjdk-21.0.2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="App.Main" />
+      <module name="ProiectPolinoame" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9a13c66-920a-411b-a8d7-c561a8810557" name="Changes" comment="" />
+      <created>1709649492596</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709649492596</updated>
+      <workItem from="1709649493813" duration="4227000" />
+      <workItem from="1709762503729" duration="974000" />
+      <workItem from="1709802418254" duration="4522000" />
+      <workItem from="1709815429502" duration="1063000" />
+      <workItem from="1709834637780" duration="9203000" />
+      <workItem from="1709881462737" duration="1344000" />
+      <workItem from="1709888252506" duration="404000" />
+      <workItem from="1709888667960" duration="120000" />
+      <workItem from="1709922406977" duration="2546000" />
+      <workItem from="1709930026555" duration="921000" />
+      <workItem from="1709930964585" duration="258000" />
+      <workItem from="1709931482035" duration="2224000" />
+      <workItem from="1709967525567" duration="4832000" />
+      <workItem from="1709991650702" duration="526000" />
+      <workItem from="1709993170188" duration="873000" />
+      <workItem from="1710082674858" duration="3000" />
+      <workItem from="1710105566231" duration="898000" />
+      <workItem from="1710168538169" duration="2371000" />
+      <workItem from="1710172645515" duration="26000" />
+      <workItem from="1710180624372" duration="366000" />
+      <workItem from="1710242527105" duration="1981000" />
+      <workItem from="1710252285171" duration="2117000" />
+      <workItem from="1710254675089" duration="3319000" />
+      <workItem from="1710436543874" duration="868000" />
+      <workItem from="1710505827145" duration="82000" />
+      <workItem from="1710505932062" duration="12000" />
+      <workItem from="1710506461629" duration="17812000" />
+      <workItem from="1710529846208" duration="207000" />
+      <workItem from="1710530545550" duration="872000" />
+      <workItem from="1710534149118" duration="391000" />
+      <workItem from="1710534610473" duration="2273000" />
+      <workItem from="1710537750742" duration="3191000" />
+      <workItem from="1710576185612" duration="7280000" />
+      <workItem from="1710590250737" duration="6726000" />
+      <workItem from="1710622608186" duration="2792000" />
+      <workItem from="1710661324577" duration="1405000" />
+      <workItem from="1710662777160" duration="295000" />
+      <workItem from="1710668343669" duration="4645000" />
+      <workItem from="1710681671211" duration="4598000" />
+      <workItem from="1710771377775" duration="11819000" />
+      <workItem from="1710789274680" duration="27000" />
+      <workItem from="1710789309907" duration="3159000" />
+      <workItem from="1710854012498" duration="505000" />
+      <workItem from="1710857694628" duration="1143000" />
+      <workItem from="1711464031688" duration="622000" />
+      <workItem from="1711466960099" duration="247000" />
+      <workItem from="1712256692252" duration="2071000" />
+      <workItem from="1712334664681" duration="3550000" />
+      <workItem from="1712416308041" duration="3000" />
+      <workItem from="1712416321653" duration="634000" />
+      <workItem from="1712484802939" duration="776000" />
+      <workItem from="1712863318772" duration="630000" />
+      <workItem from="1712941876641" duration="1814000" />
+      <workItem from="1712995758602" duration="636000" />
+      <workItem from="1715627083220" duration="78000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.NoSuchElementException" package="java.util" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
